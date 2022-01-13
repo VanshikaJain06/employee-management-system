@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="test.xsd">
+  <Employee>
+    <Emp-ID>1</Emp-ID>
+    <Emp-name>John</Emp-name>
+    <Emp-age>32</Emp-age>
+    <Emp-salary>50000</Emp-salary>
+    <Emp-emailid>john@gmail.com</Emp-emailid>
+    <Emp-Phonenum>6204940110</Emp-Phonenum>
+    <Emp-designation>Client</Emp-designation>
+  </Employee>
+  <Employee>
+    <Emp-ID>2</Emp-ID>
+    <Emp-name>Timber</Emp-name>
+    <Emp-age>33</Emp-age>
+    <Emp-salary>50000</Emp-salary>
+    <Emp-emailid>timber@gmail.com</Emp-emailid>
+    <Emp-Phonenum>6204947810</Emp-Phonenum>
+    <Emp-designation>Client</Emp-designation>
+  </Employee>
+  <Employee>
+  	<Emp-ID>3</Emp-ID>
+  	<Emp-name>Alley</Emp-name>
+  	<Emp-age>45</Emp-age>
+  	<Emp-salary>110000</Emp-salary>
+  	<Emp-emailid>alley@gmail.com</Emp-emailid>
+  	<Emp-Phonenum>9854756222</Emp-Phonenum>
+  	<Emp-designation>Developer</Emp-designation>
+  </Employee>
+  <Employee>
+  	<Emp-ID>4</Emp-ID>
+  	<Emp-name>Merry</Emp-name>
+  	<Emp-age>46</Emp-age>
+  	<Emp-salary>120000</Emp-salary>
+  	<Emp-emailid>merry@gmail.com</Emp-emailid>
+  	<Emp-Phonenum>9854756922</Emp-Phonenum>
+  	<Emp-designation>Designer</Emp-designation>
+  </Employee>
+  <Employee>
+  	<Emp-ID>5</Emp-ID>
+  	<Emp-name>Winky</Emp-name>
+  	<Emp-age>47</Emp-age>
+  	<Emp-salary>75000</Emp-salary>
+  	<Emp-emailid>winky@gmail.com</Emp-emailid>
+  	<Emp-Phonenum>9854756214</Emp-Phonenum>
+  	<Emp-designation>Designer</Emp-designation>
+  </Employee>
+  
+</Company>
